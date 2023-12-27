@@ -1,3 +1,5 @@
 <?php
 
 $portuguese;
+$egypt;
+$australia;
