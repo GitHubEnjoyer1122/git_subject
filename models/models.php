@@ -6,3 +6,4 @@ $australia;
 $indonesian;
 $aljazair;
 $japanese;
+$franche;
